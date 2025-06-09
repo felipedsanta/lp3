@@ -1,0 +1,31 @@
+2025-06-06 00:06:14,053 - LoggerServidorTexto_Fase6 - INFO - Servidor iniciado e escutando em 0.0.0.0:65432
+2025-06-06 00:10:04,947 - LoggerServidorTexto_Fase6 - INFO - Conexão estabelecida com 127.0.0.1:55805
+2025-06-06 00:11:45,811 - LoggerServidorTexto_Fase6 - INFO - Cliente 127.0.0.1:55805 encerrou a conexão (sem cabeçalho).
+2025-06-06 00:11:45,819 - LoggerServidorTexto_Fase6 - INFO - Sessão com cliente 127.0.0.1:55805 encerrada.
+2025-06-06 00:12:17,390 - LoggerServidorTexto_Fase6 - INFO - Conexão estabelecida com 127.0.0.1:55891
+2025-06-06 00:12:20,742 - LoggerServidorTexto_Fase6 - INFO - Retomando 'teste.txt' do offset 0. Total 58044.
+2025-06-06 00:12:20,750 - LoggerServidorTexto_Fase6 - INFO - Recebendo dados para 'teste.txt'. Total: 58044 bytes. Offset inicial: 0.
+2025-06-06 00:12:20,763 - LoggerServidorTexto_Fase6 - INFO - Todos os dados esperados para 'teste.txt' recebidos. Total no disco: 58044 bytes.
+2025-06-06 00:12:20,763 - LoggerServidorTexto_Fase6 - INFO - Arquivo 'teste.txt' completo. Calculando checksum...
+2025-06-06 00:12:20,769 - LoggerServidorTexto_Fase6 - INFO - Checksum calculado no servidor (md5): 55e5ee7b5ec90923af31d97367d8e254
+2025-06-06 00:12:20,773 - LoggerServidorTexto_Fase6 - INFO - CHECKSUM OK para 'teste.txt'.
+2025-06-06 00:12:20,795 - LoggerServidorTexto_Fase6 - INFO - Retomando 'sub_pasta1/Captura de tela 2025-05-19 183513.png' do offset 0. Total 1458237.
+2025-06-06 00:12:20,802 - LoggerServidorTexto_Fase6 - INFO - Recebendo dados para 'Captura de tela 2025-05-19 183513.png'. Total: 1458237 bytes. Offset inicial: 0.
+2025-06-06 00:12:20,817 - LoggerServidorTexto_Fase6 - INFO - Todos os dados esperados para 'Captura de tela 2025-05-19 183513.png' recebidos. Total no disco: 1458237 bytes.
+2025-06-06 00:12:20,817 - LoggerServidorTexto_Fase6 - INFO - Arquivo 'Captura de tela 2025-05-19 183513.png' completo. Calculando checksum...
+2025-06-06 00:12:20,825 - LoggerServidorTexto_Fase6 - INFO - Checksum calculado no servidor (md5): 6f041e9f087f0bbf8304d0bd6743845f
+2025-06-06 00:12:20,825 - LoggerServidorTexto_Fase6 - INFO - CHECKSUM OK para 'Captura de tela 2025-05-19 183513.png'.
+2025-06-06 00:12:20,853 - LoggerServidorTexto_Fase6 - INFO - Retomando 'sub_pasta1/teste.txt' do offset 0. Total 58044.
+2025-06-06 00:12:20,859 - LoggerServidorTexto_Fase6 - INFO - Recebendo dados para 'teste.txt'. Total: 58044 bytes. Offset inicial: 0.
+2025-06-06 00:12:20,873 - LoggerServidorTexto_Fase6 - INFO - Todos os dados esperados para 'teste.txt' recebidos. Total no disco: 58044 bytes.
+2025-06-06 00:12:20,873 - LoggerServidorTexto_Fase6 - INFO - Arquivo 'teste.txt' completo. Calculando checksum...
+2025-06-06 00:12:20,879 - LoggerServidorTexto_Fase6 - INFO - Checksum calculado no servidor (md5): 55e5ee7b5ec90923af31d97367d8e254
+2025-06-06 00:12:20,880 - LoggerServidorTexto_Fase6 - INFO - CHECKSUM OK para 'teste.txt'.
+2025-06-06 00:12:20,911 - LoggerServidorTexto_Fase6 - INFO - Retomando 'sub_pasta2/CapCut_7510649161461596221_installer.exe' do offset 0. Total 2313024.
+2025-06-06 00:12:20,917 - LoggerServidorTexto_Fase6 - INFO - Recebendo dados para 'CapCut_7510649161461596221_installer.exe'. Total: 2313024 bytes. Offset inicial: 0.
+2025-06-06 00:12:20,935 - LoggerServidorTexto_Fase6 - INFO - Todos os dados esperados para 'CapCut_7510649161461596221_installer.exe' recebidos. Total no disco: 2313024 bytes.
+2025-06-06 00:12:20,935 - LoggerServidorTexto_Fase6 - INFO - Arquivo 'CapCut_7510649161461596221_installer.exe' completo. Calculando checksum...
+2025-06-06 00:12:20,942 - LoggerServidorTexto_Fase6 - INFO - Checksum calculado no servidor (md5): 752ad1460dbf9ab567b5d97b706381ce
+2025-06-06 00:12:20,942 - LoggerServidorTexto_Fase6 - INFO - CHECKSUM OK para 'CapCut_7510649161461596221_installer.exe'.
+2025-06-06 00:12:20,967 - LoggerServidorTexto_Fase6 - INFO - Cliente 127.0.0.1:55891 encerrou a conexão (sem cabeçalho).
+2025-06-06 00:12:20,978 - LoggerServidorTexto_Fase6 - INFO - Sessão com cliente 127.0.0.1:55891 encerrada.

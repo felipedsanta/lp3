@@ -1,0 +1,31 @@
+2025-06-06 00:10:04,938 - LoggerClienteTexto_Fase6 - INFO - Cliente iniciado. Tentará conectar em 127.0.0.1:65432
+2025-06-06 00:10:04,938 - LoggerClienteTexto_Fase6 - INFO - Tentando conectar ao servidor em 127.0.0.1:65432...
+2025-06-06 00:10:04,947 - LoggerClienteTexto_Fase6 - INFO - Conectado ao servidor em 127.0.0.1:65432
+2025-06-06 00:12:17,380 - LoggerClienteTexto_Fase6 - INFO - Cliente iniciado. Tentará conectar em 127.0.0.1:65432
+2025-06-06 00:12:17,382 - LoggerClienteTexto_Fase6 - INFO - Tentando conectar ao servidor em 127.0.0.1:65432...
+2025-06-06 00:12:17,389 - LoggerClienteTexto_Fase6 - INFO - Conectado ao servidor em 127.0.0.1:65432
+2025-06-06 00:12:20,698 - LoggerClienteTexto_Fase6 - INFO - Iniciando transferência da pasta: pasta_teste
+2025-06-06 00:12:20,712 - LoggerClienteTexto_Fase6 - INFO -   Enviando comando para criar subpasta: sub_pasta1
+2025-06-06 00:12:20,717 - LoggerClienteTexto_Fase6 - INFO -   Enviando comando para criar subpasta: sub_pasta2
+2025-06-06 00:12:20,732 - LoggerClienteTexto_Fase6 - INFO - Preparando para enviar 'teste.txt'. Tamanho: 58044, Checksum: 55e5ee7b5e...
+2025-06-06 00:12:20,750 - LoggerClienteTexto_Fase6 - INFO - Servidor instruiu a retomar 'teste.txt' do byte 0.
+2025-06-06 00:12:20,750 - LoggerClienteTexto_Fase6 - INFO - Enviando dados de 'teste.txt' a partir do byte 0. Total a enviar: 58044 bytes.
+2025-06-06 00:12:20,750 - LoggerClienteTexto_Fase6 - INFO - Envio de dados para 'teste.txt' concluído. Total enviado nesta sessão: 58044 bytes.
+2025-06-06 00:12:20,779 - LoggerClienteTexto_Fase6 - INFO - Status final do servidor para 'teste.txt': FILE_CHECKSUM_OK
+2025-06-06 00:12:20,788 - LoggerClienteTexto_Fase6 - INFO - Preparando para enviar 'sub_pasta1/Captura de tela 2025-05-19 183513.png'. Tamanho: 1458237, Checksum: 6f041e9f08...
+2025-06-06 00:12:20,801 - LoggerClienteTexto_Fase6 - INFO - Servidor instruiu a retomar 'sub_pasta1/Captura de tela 2025-05-19 183513.png' do byte 0.
+2025-06-06 00:12:20,802 - LoggerClienteTexto_Fase6 - INFO - Enviando dados de 'Captura de tela 2025-05-19 183513.png' a partir do byte 0. Total a enviar: 1458237 bytes.
+2025-06-06 00:12:20,811 - LoggerClienteTexto_Fase6 - INFO - Envio de dados para 'Captura de tela 2025-05-19 183513.png' concluído. Total enviado nesta sessão: 1458237 bytes.
+2025-06-06 00:12:20,831 - LoggerClienteTexto_Fase6 - INFO - Status final do servidor para 'sub_pasta1/Captura de tela 2025-05-19 183513.png': FILE_CHECKSUM_OK
+2025-06-06 00:12:20,845 - LoggerClienteTexto_Fase6 - INFO - Preparando para enviar 'sub_pasta1/teste.txt'. Tamanho: 58044, Checksum: 55e5ee7b5e...
+2025-06-06 00:12:20,859 - LoggerClienteTexto_Fase6 - INFO - Servidor instruiu a retomar 'sub_pasta1/teste.txt' do byte 0.
+2025-06-06 00:12:20,859 - LoggerClienteTexto_Fase6 - INFO - Enviando dados de 'teste.txt' a partir do byte 0. Total a enviar: 58044 bytes.
+2025-06-06 00:12:20,860 - LoggerClienteTexto_Fase6 - INFO - Envio de dados para 'teste.txt' concluído. Total enviado nesta sessão: 58044 bytes.
+2025-06-06 00:12:20,887 - LoggerClienteTexto_Fase6 - INFO - Status final do servidor para 'sub_pasta1/teste.txt': FILE_CHECKSUM_OK
+2025-06-06 00:12:20,905 - LoggerClienteTexto_Fase6 - INFO - Preparando para enviar 'sub_pasta2/CapCut_7510649161461596221_installer.exe'. Tamanho: 2313024, Checksum: 752ad1460d...
+2025-06-06 00:12:20,917 - LoggerClienteTexto_Fase6 - INFO - Servidor instruiu a retomar 'sub_pasta2/CapCut_7510649161461596221_installer.exe' do byte 0.
+2025-06-06 00:12:20,917 - LoggerClienteTexto_Fase6 - INFO - Enviando dados de 'CapCut_7510649161461596221_installer.exe' a partir do byte 0. Total a enviar: 2313024 bytes.
+2025-06-06 00:12:20,928 - LoggerClienteTexto_Fase6 - INFO - Envio de dados para 'CapCut_7510649161461596221_installer.exe' concluído. Total enviado nesta sessão: 2313024 bytes.
+2025-06-06 00:12:20,949 - LoggerClienteTexto_Fase6 - INFO - Status final do servidor para 'sub_pasta2/CapCut_7510649161461596221_installer.exe': FILE_CHECKSUM_OK
+2025-06-06 00:12:20,961 - LoggerClienteTexto_Fase6 - INFO - Servidor confirmou fim do processamento da pasta 'pasta_teste'.
+2025-06-06 00:12:20,977 - LoggerClienteTexto_Fase6 - INFO - Cliente encerrado.

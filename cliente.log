@@ -29,3 +29,14 @@
 2025-06-06 00:12:20,949 - LoggerClienteTexto_Fase6 - INFO - Status final do servidor para 'sub_pasta2/CapCut_7510649161461596221_installer.exe': FILE_CHECKSUM_OK
 2025-06-06 00:12:20,961 - LoggerClienteTexto_Fase6 - INFO - Servidor confirmou fim do processamento da pasta 'pasta_teste'.
 2025-06-06 00:12:20,977 - LoggerClienteTexto_Fase6 - INFO - Cliente encerrado.
+2025-06-08 21:50:19,025 - LoggerClienteTexto_Fase6 - INFO - Cliente iniciado. Tentará conectar em 127.0.0.1:65432
+2025-06-08 21:50:19,026 - LoggerClienteTexto_Fase6 - INFO - Tentando conectar ao servidor em 127.0.0.1:65432...
+2025-06-08 21:50:19,033 - LoggerClienteTexto_Fase6 - INFO - Conectado ao servidor em 127.0.0.1:65432
+2025-06-08 21:50:32,503 - LoggerClienteTexto_Fase6 - INFO - Iniciando transferência da pasta: Filme_terror
+2025-06-08 21:50:47,541 - LoggerClienteTexto_Fase6 - INFO - Preparando para enviar 'O.Homem.do.Saco.2024.1080p.WEB-DL.DUAL.5.1.mkv'. Tamanho: 2285649262, Checksum: 7890cdfdd6...
+2025-06-08 21:50:47,553 - LoggerClienteTexto_Fase6 - INFO - Servidor instruiu a retomar 'O.Homem.do.Saco.2024.1080p.WEB-DL.DUAL.5.1.mkv' do byte 0.
+2025-06-08 21:50:47,554 - LoggerClienteTexto_Fase6 - INFO - Enviando dados de 'O.Homem.do.Saco.2024.1080p.WEB-DL.DUAL.5.1.mkv' a partir do byte 0. Total a enviar: 2285649262 bytes.
+2025-06-08 21:50:50,909 - LoggerClienteTexto_Fase6 - INFO - Envio de dados para 'O.Homem.do.Saco.2024.1080p.WEB-DL.DUAL.5.1.mkv' concluído. Total enviado nesta sessão: 2285649262 bytes.
+2025-06-08 21:50:53,834 - LoggerClienteTexto_Fase6 - INFO - Status final do servidor para 'O.Homem.do.Saco.2024.1080p.WEB-DL.DUAL.5.1.mkv': FILE_CHECKSUM_OK
+2025-06-08 21:50:53,846 - LoggerClienteTexto_Fase6 - INFO - Servidor confirmou fim do processamento da pasta 'Filme_terror'.
+2025-06-08 21:50:53,862 - LoggerClienteTexto_Fase6 - INFO - Cliente encerrado.

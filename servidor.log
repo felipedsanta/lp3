@@ -29,3 +29,25 @@
 2025-06-06 00:12:20,942 - LoggerServidorTexto_Fase6 - INFO - CHECKSUM OK para 'CapCut_7510649161461596221_installer.exe'.
 2025-06-06 00:12:20,967 - LoggerServidorTexto_Fase6 - INFO - Cliente 127.0.0.1:55891 encerrou a conexão (sem cabeçalho).
 2025-06-06 00:12:20,978 - LoggerServidorTexto_Fase6 - INFO - Sessão com cliente 127.0.0.1:55891 encerrada.
+2025-06-08 21:49:58,705 - LoggerServidorTexto_Fase6 - INFO - Servidor iniciado e escutando em 0.0.0.0:65432
+2025-06-08 21:50:19,033 - LoggerServidorTexto_Fase6 - INFO - Conexão estabelecida com 127.0.0.1:59763
+2025-06-08 21:50:47,547 - LoggerServidorTexto_Fase6 - INFO - Retomando 'O.Homem.do.Saco.2024.1080p.WEB-DL.DUAL.5.1.mkv' do offset 0. Total 2285649262.
+2025-06-08 21:50:47,554 - LoggerServidorTexto_Fase6 - INFO - Recebendo dados para 'O.Homem.do.Saco.2024.1080p.WEB-DL.DUAL.5.1.mkv'. Total: 2285649262 bytes. Offset inicial: 0.
+2025-06-08 21:50:50,915 - LoggerServidorTexto_Fase6 - INFO - Todos os dados esperados para 'O.Homem.do.Saco.2024.1080p.WEB-DL.DUAL.5.1.mkv' recebidos. Total no disco: 2285649262 bytes.
+2025-06-08 21:50:50,915 - LoggerServidorTexto_Fase6 - INFO - Arquivo 'O.Homem.do.Saco.2024.1080p.WEB-DL.DUAL.5.1.mkv' completo. Calculando checksum...
+2025-06-08 21:50:53,825 - LoggerServidorTexto_Fase6 - INFO - Checksum calculado no servidor (md5): 7890cdfdd6acd532f7c0f55f46d62113
+2025-06-08 21:50:53,828 - LoggerServidorTexto_Fase6 - INFO - CHECKSUM OK para 'O.Homem.do.Saco.2024.1080p.WEB-DL.DUAL.5.1.mkv'.
+2025-06-08 21:50:53,852 - LoggerServidorTexto_Fase6 - INFO - Cliente 127.0.0.1:59763 encerrou a conexão (sem cabeçalho).
+2025-06-08 21:50:53,862 - LoggerServidorTexto_Fase6 - INFO - Sessão com cliente 127.0.0.1:59763 encerrada.
+2025-06-08 22:52:11,621 - LoggerServidorTexto_Fase6 - INFO - Servidor interrompido pelo usuário (Ctrl+C).
+2025-06-08 22:52:11,630 - LoggerServidorTexto_Fase6 - INFO - Servidor encerrado.
+2025-06-08 22:56:18,824 - LoggerServidorTexto_Fase6 - INFO - Servidor iniciado e escutando em 0.0.0.0:65432
+2025-06-08 22:56:27,838 - LoggerServidorTexto_Fase6 - INFO - Conexão estabelecida com 192.168.1.21:46012
+2025-06-08 22:56:36,464 - LoggerServidorTexto_Fase6 - INFO - Retomando 'priston_tale_brasil_4.22.6.exe' do offset 0. Total 2088231000.
+2025-06-08 22:56:36,473 - LoggerServidorTexto_Fase6 - INFO - Recebendo dados para 'priston_tale_brasil_4.22.6.exe'. Total: 2088231000 bytes. Offset inicial: 0.
+2025-06-09 00:48:27,232 - LoggerServidorTexto_Fase6 - INFO - Todos os dados esperados para 'priston_tale_brasil_4.22.6.exe' recebidos. Total no disco: 2088231000 bytes.
+2025-06-09 00:48:27,233 - LoggerServidorTexto_Fase6 - INFO - Arquivo 'priston_tale_brasil_4.22.6.exe' completo. Calculando checksum...
+2025-06-09 00:48:30,050 - LoggerServidorTexto_Fase6 - INFO - Checksum calculado no servidor (md5): a26b6f9fbbece6a96b9dce1570949583
+2025-06-09 00:48:30,054 - LoggerServidorTexto_Fase6 - INFO - CHECKSUM OK para 'priston_tale_brasil_4.22.6.exe'.
+2025-06-09 00:48:30,293 - LoggerServidorTexto_Fase6 - INFO - Cliente 192.168.1.21:46012 encerrou a conexão (sem cabeçalho).
+2025-06-09 00:48:30,301 - LoggerServidorTexto_Fase6 - INFO - Sessão com cliente 192.168.1.21:46012 encerrada.
